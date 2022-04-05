@@ -68,7 +68,7 @@ global.owner = [ '6282174006859' ]
 global.premium = ['6282174006859']
 
 
-global.packname = 'Sanzy Gemoyyy'
+global.packname = 'Zee'
 
 
 global.author = 'WhatsApp Bot'
@@ -122,7 +122,7 @@ global.limitawal = {
     premium: "Infinity",
 
 
-    free: 10
+    free: 20
 
 
 }
