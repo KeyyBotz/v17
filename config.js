@@ -122,7 +122,7 @@ global.limitawal = {
     premium: "Infinity",
 
 
-    free: 20
+    free: 200000
 
 
 }
